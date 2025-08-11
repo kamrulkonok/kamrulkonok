@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Md Kamrul Islam (Konok)</h1>
+<h1 align="center">👋 Hello, I'm Kamrul</h1>
 
 <div align="center">
   <a href="https://kamrulkonok.github.io/portfolio" target="_blank">
