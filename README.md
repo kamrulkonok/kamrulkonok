@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Md Kamrul Islam (Konok)</h1>
 
-<!--
-**kamrulkonok/kamrulkonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://kamrulkonok.github.io/portfolio" target="_blank">
+    <img src="images/portfolio.png" height="50" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mdkamrul.islam@student-cs.fr">
+    <img src="images/mail.png" height="50" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kamrulkonok" target="_blank">
+    <img src="images/linkedin.png" height="50" alt="LinkedIn" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>"Mathematics reveals timeless truths; code turns them into real‑world impact." — that's the journey I'm on 🚀</em>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="300" height="300" alt="Banner" />
+</div>
+
+<br />
+
+## 🎓 Education
+
+- **Bachelor of Engineering in Software Engineering** — Sichuan University 🇨🇳
+  - 🏆 **Best Thesis Award**
+- **MSc Big Data Management & Analytics** (Erasmus Mundus)
+  - 🇧🇪 Université libre de Bruxelles (ULB)
+  - 🇪🇸 Universitat Politècnica de Catalunya (UPC)
+  - 🇫🇷 CentraleSupélec
+- **Master's Thesis** @ LISSI UPEC 🇫🇷
+
+## 🔬 Research Interest
+
+- **Generative AI, LLMs, Deep Learning**
+- **Recent work**: Security annotated BPMN and LLMs
