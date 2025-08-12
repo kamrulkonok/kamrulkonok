@@ -40,5 +40,5 @@
 
 ## 🔬 Research Interest
 
-- **Generative AI, LLMs, Deep Learning**
+- **LLMs, Deep Learning, Medical Imaging**
 - **Recent work**: Security annotated BPMN and LLMs
