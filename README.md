@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Kamrul</h1>
 
 <div align="center">
-  <a href="https://kamrulkonok.github.io/portfolio" target="_blank">
+  <a href="[https://kamrulkonok.github.io/portfolio](https://kamrul-portfolio-sigma.vercel.app/)" target="_blank">
     <img src="images/portfolio.png" height="50" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
