@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Kamrul</h1>
 
 <div align="center">
-  <a href="[https://kamrulkonok.github.io/portfolio](https://kamrul-portfolio-sigma.vercel.app/)" target="_blank">
+  <a href="https://kamrul-portfolio-sigma.vercel.app/" target="_blank">
     <img src="images/portfolio.png" height="50" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,9 +33,9 @@
 - **Bachelor of Engineering in Software Engineering** — Sichuan University 🇨🇳
   - 🏆 **Best Thesis Award**
 - **MSc Big Data Management & Analytics** (Erasmus Mundus)
-  - 🇧🇪 Université libre de Bruxelles (ULB)
-  - 🇪🇸 Universitat Politècnica de Catalunya (UPC)
-  - 🇫🇷 CentraleSupélec
+  - ��🇪 Université libre de Bruxelles (ULB)
+  - 🇪�� Universitat Politècnica de Catalunya (UPC)
+  - ��🇷 CentraleSupélec
 - **Master's Thesis** @ LISSI UPEC 🇫🇷
 
 ## 🔬 Research Interest
