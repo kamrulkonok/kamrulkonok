@@ -33,9 +33,9 @@
 - **Bachelor of Engineering in Software Engineering** — Sichuan University 🇨🇳
   - 🏆 **Best Thesis Award**
 - **MSc Big Data Management & Analytics** (Erasmus Mundus)
-  - ��🇪 Université libre de Bruxelles (ULB)
-  - 🇪�� Universitat Politècnica de Catalunya (UPC)
-  - ��🇷 CentraleSupélec
+  - 🇧🇪 Université libre de Bruxelles (ULB)
+  - 🇪🇸 Universitat Politècnica de Catalunya (UPC)
+  - 🇫🇷 CentraleSupélec
 - **Master's Thesis** @ LISSI UPEC 🇫🇷
 
 ## 🔬 Research Interest
