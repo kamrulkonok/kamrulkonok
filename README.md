@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <em>"Mathematics reveals timeless truths; code turns them into real‑world impact." — that's the journey I'm on 🚀</em>
+  <em>"Mathematics reveals the patterns of the universe; code turns them into real‑world impact." — that's the journey I'm on 🚀</em>
 </p>
 
 <br />
