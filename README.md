@@ -39,5 +39,5 @@
 
 ## 🔬 Research Interest
 
-- **LLMs, Deep Learning, Medical Imaging**
+- **Foundation Models, Deep Learning, Medical Imaging**
 - **Recent work**: Security annotated BPMN and LLMs
