@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://kamrulkonok.github.io" target="_blank">
-    <!-- <img src="images/portfolio.png" height="50" alt="Portfolio" /> -->
+    <img src="images/portfolio.png" height="50" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mdkamrul.islam@student-cs.fr">
@@ -22,9 +22,9 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="300" height="300" alt="Banner" />
-</div>
+</div> -->
 
 <br />
 
