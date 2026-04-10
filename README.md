@@ -35,9 +35,3 @@
   - 🇧🇪 Université libre de Bruxelles (ULB)
   - 🇪🇸 Universitat Politècnica de Catalunya (UPC)
   - 🇫🇷 CentraleSupélec
-- **Master's Thesis** @ LISSI UPEC in close collaboration with CEA-LIST 🇫🇷
-
-## 🔬 Research Interest
-
-- **Foundation Models, Deep Learning, Medical Imaging**
-- **Recent work**: Security annotated BPMN and LLMs
