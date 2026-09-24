@@ -5,20 +5,28 @@
 </p>
 
 <p align="center">
-  <a href="https://kamrulkonok.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://scholar.google.com/citations?user=BRSs1h4AAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
+  &nbsp;
   <a href="https://orcid.org/0009-0000-8052-491X">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
+  &nbsp;
+  <a href="https://kamrulkonok.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Website-222222?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/kamrulkonok">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/kamrulkonok">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:mdkamrul.islam@aiub.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -28,7 +36,7 @@
 
 I am a **Lecturer in Computer Science at American International University-Bangladesh (AIUB)** and an early-career AI researcher with a background in **deep learning, medical imaging, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
 
-My current research interests include:
+My research interests include:
 
 - **Foundation Models & LLMs**
 - **Information Retrieval & Neural Ranking**
@@ -40,15 +48,9 @@ I am particularly interested in building **reliable, context-aware, and efficien
 
 ---
 
-## Research
+## Selected Publication
 
-- **LLMs & RAG:** Hybrid LLM–rule-based systems for structured reasoning and information extraction.
-- **Information Retrieval:** Semantic retrieval and context-aware ranking for dynamic information environments.
-- **Deep Learning:** Representation learning and geometric deep learning for medical imaging.
-
-**Selected Publication**
-
-> M. K. Islam *et al.*, *A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models*, **BPM Forum 2026**, Springer.
+> **M. K. Islam** *et al.*, *A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models*, **BPM Forum 2026**, Springer.
 
 [DOI](https://doi.org/10.1007/978-3-032-37877-4_10)
 
@@ -65,5 +67,5 @@ I am particularly interested in building **reliable, context-aware, and efficien
 ---
 
 <p align="center">
-  <i>Mathematics reveals the patterns of the universe; code turns them into real‑world impact." — that's the journey I'm on 🚀</i>
+  <i>Mathematics reveals the patterns of the universe; code turns them into real-world impact.</i>
 </p>
