@@ -5,25 +5,37 @@
 </p>
 
 <p align="center">
+
   <a href="https://scholar.google.com/citations?user=BRSs1h4AAAAJ">
+
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+
   </a>
+
   &nbsp;
+
   <a href="https://orcid.org/0009-0000-8052-491X">
+
     <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+
   </a>
+
   &nbsp;
-  <a href="https://github.com/kamrulkonok">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+
+  <a href="https://kamrulkonok.github.io">
+
+    <img src="https://img.shields.io/badge/Portfolio-Website-222222?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+
   </a>
+
   &nbsp;
-  <a href="https://linkedin.com/in/kamrulkonok">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
+
   <a href="mailto:mdkamrul.islam@aiub.edu">
+
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+
   </a>
+
 </p>
 
 ---
