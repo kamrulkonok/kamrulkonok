@@ -1,75 +1,69 @@
 <h1 align="center">Md Kamrul Islam</h1>
 
 <p align="center">
-
   <strong>Lecturer in Computer Science | AI Researcher</strong>
-
 </p>
 
 <p align="center">
-
-  <a href="https://kamrulkonok.github.io">Portfolio</a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://scholar.google.com/citations?user=BRSs1h4AAAAJ">Google Scholar</a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://orcid.org/0009-0000-8052-491X">ORCID</a>
-
-  &nbsp;•&nbsp;
-
-  <a href="https://linkedin.com/in/kamrulkonok">LinkedIn</a>
-
-  &nbsp;•&nbsp;
-
-  <a href="mailto:mdkamrul.islam@aiub.edu">Email</a>
-
+  <a href="https://kamrulkonok.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=BRSs1h4AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://orcid.org/0009-0000-8052-491X">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="https://linkedin.com/in/kamrulkonok">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdkamrul.islam@aiub.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 ## About
 
-I am a **Lecturer in Computer Science at American International University-Bangladesh (AIUB)** and an early-career AI researcher with a background in **deep learning, medical imaging, large language models, and retrieval-augmented generation**.
+I am a **Lecturer in Computer Science at American International University-Bangladesh (AIUB)** and an early-career AI researcher with a background in **deep learning, medical imaging, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
 
-I hold an **Erasmus Mundus Joint Master's Degree in Big Data Management and Analytics (BDMA)**, completed across Université libre de Bruxelles (ULB), Universitat Politècnica de Catalunya (UPC), and CentraleSupélec.
+My current research interests include:
 
-My research interests are centered on developing intelligent and data-efficient AI systems, with a growing focus on:
+- **Foundation Models & LLMs**
+- **Information Retrieval & Neural Ranking**
+- **Retrieval-Augmented Generation**
+- **Multimodal & Agentic AI**
+- **Efficient / Frugal AI**
 
-- Large Language Models (LLMs) and foundation models
+I am particularly interested in building **reliable, context-aware, and efficient AI systems**.
 
-- Retrieval-Augmented Generation (RAG)
+---
 
-- Information Retrieval and neural ranking
+## Research
 
-- Multimodal AI
+- **LLMs & RAG:** Hybrid LLM–rule-based systems for structured reasoning and information extraction.
+- **Information Retrieval:** Semantic retrieval and context-aware ranking for dynamic information environments.
+- **Deep Learning:** Representation learning and geometric deep learning for medical imaging.
 
-- Agentic AI
+**Selected Publication**
 
-- Efficient and frugal AI
+> M. K. Islam *et al.*, *A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models*, **BPM Forum 2026**, Springer.
 
-- Deep learning and representation learning
+[DOI](https://doi.org/10.1007/978-3-032-37877-4_10)
 
-## Education
+---
 
-**Erasmus Mundus Joint Master's Degree in Big Data Management and Analytics**  
+## 🎓 Education
 
-*2023 – 2025*
+- **Bachelor of Engineering in Software Engineering** — Sichuan University 🇨🇳
+- **MSc Big Data Management & Analytics** (Erasmus Mundus)
+  - 🇧🇪 Université libre de Bruxelles (ULB)
+  - 🇪🇸 Universitat Politècnica de Catalunya (UPC)
+  - 🇫🇷 CentraleSupélec
 
-- 🇧🇪 Université libre de Bruxelles (ULB)
+---
 
-- 🇪🇸 Universitat Politècnica de Catalunya (UPC)
-
-- 🇫🇷 CentraleSupélec
-
-- Erasmus Mundus Scholarship
-
-**Bachelor of Engineering in Software Engineering**  
-
-*Sichuan University, China · 2018 – 2021*
-
-- Belt and Road Initiative Scholarship
-
-- Undergraduate thesis: *Brain Tumor Detection and Classification Using Convolutional Neural Networks*
+<p align="center">
+  <i>Mathematics reveals the patterns of the universe; code turns them into real‑world impact." — that's the journey I'm on 🚀</i>
+</p>
