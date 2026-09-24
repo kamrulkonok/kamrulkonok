@@ -13,10 +13,6 @@
     <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   &nbsp;
-  <a href="https://kamrulkonok.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Website-222222?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/kamrulkonok">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
