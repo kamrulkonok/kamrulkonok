@@ -34,13 +34,12 @@
 
 ## About
 
-I am a **Lecturer in Computer Science at American International University-Bangladesh (AIUB)** and an early-career AI researcher with a background in **deep learning, medical imaging, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
+I am a **Lecturer in the Department of Computer Science at American International University-Bangladesh (AIUB)** and an AI researcher with a background in **deep learning, medical imaging, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
 
 My research interests include:
 
 - **Foundation Models & LLMs**
 - **Information Retrieval & Neural Ranking**
-- **Retrieval-Augmented Generation**
 - **Multimodal & Agentic AI**
 - **Efficient / Frugal AI**
 
@@ -67,5 +66,5 @@ I am particularly interested in building **reliable, context-aware, and efficien
 ---
 
 <p align="center">
-  <i>Mathematics reveals the patterns of the universe; code turns them into real-world impact.</i>
+  <i>"Mathematics reveals the patterns of the universe; code turns them into real‑world impact." — that's the journey I'm on 🚀</i>
 </p>
