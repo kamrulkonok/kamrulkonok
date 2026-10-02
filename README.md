@@ -32,7 +32,7 @@ My research interests include:
 - **Multimodal & Agentic AI**
 - **Efficient / Frugal AI**
 
-I am particularly interested in building **reliable, context-aware, and efficient AI systems**.
+Feel free to reach out for the advancement of science with potential collaboration.
 
 ---
 
