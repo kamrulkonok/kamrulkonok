@@ -23,7 +23,7 @@
 
 ## About
 
-I am a **Lecturer in the Department of Computer Science at American International University-Bangladesh (AIUB)** and an AI researcher with a background in **deep learning, medical imaging, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.
+I am a **Lecturer in the Department of Computer Science at American International University-Bangladesh (AIUB)** and an AI researcher with a background in **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Process Models, Deep Learning, and Medical Imaging**.
 
 My research interests include:
 
@@ -32,11 +32,11 @@ My research interests include:
 - **Multimodal & Agentic AI**
 - **Efficient / Frugal AI**
 
-Feel free to reach out for the advancement of science with potential collaboration.
+Feel free to reach out to advance science and explore potential collaboration.
 
 ---
 
-## Selected Publication
+## Selected Publications
 
 > **M. K. Islam** *et al.*, *A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models*, **BPM Forum 2026**, Springer.
 
