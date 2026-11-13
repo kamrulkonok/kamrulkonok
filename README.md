@@ -1,7 +1,7 @@
 <h1 align="center">Md Kamrul Islam</h1>
 
 <p align="center">
-  <strong>Lecturer in Computer Science | AI Researcher</strong>
+  <strong>Lecturer in Computer Science</strong>
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@ I am a **Lecturer in the Department of Computer Science at American Internationa
 
 My research interests include:
 
-- **Foundation Models & LLMs**
-- **Information Retrieval & Neural Ranking**
-- **Multimodal & Agentic AI**
-- **Efficient / Frugal AI**
+- **Foundation Models**
+- **Information Retrieval**
+- **Agentic AI**
+- **Efficient Language Models**
 
 Feel free to reach out to advance science and explore potential collaboration.
 
@@ -41,19 +41,3 @@ Feel free to reach out to advance science and explore potential collaboration.
 > **M. K. Islam** *et al.*, *A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models*, **BPM Forum 2026**, Springer.
 
 [DOI](https://doi.org/10.1007/978-3-032-37877-4_10)
-
----
-
-## 🎓 Education
-
-- **Bachelor of Engineering in Software Engineering** — Sichuan University 🇨🇳
-- **MSc Big Data Management & Analytics** (Erasmus Mundus)
-  - 🇧🇪 Université libre de Bruxelles (ULB)
-  - 🇪🇸 Universitat Politècnica de Catalunya (UPC)
-  - 🇫🇷 CentraleSupélec
-
----
-
-<p align="center">
-  <i>"Mathematics reveals the patterns of the universe; code turns them into real‑world impact." — that's the journey I'm on 🚀</i>
-</p>
