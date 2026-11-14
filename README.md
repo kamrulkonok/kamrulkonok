@@ -30,7 +30,7 @@ My research interests include:
 - **Foundation Models**
 - **Information Retrieval**
 - **Agentic AI**
-- **Efficient Language Models**
+- **AI Safety, and Security**
 
 Feel free to reach out to advance science and explore potential collaboration.
 
